@@ -38,7 +38,7 @@
 ### 🎮 [Winter AO](https://github.com/WinterAO)
 Servidor AO modificado con enfoque PvP, combate ágil y balance refinado. Proyecto open source mantenido por mí dentro de la comunidad **Winter**.
 
-### 🗺️ [WorldEditor](https://github.com/ManuelJSD/Argentum-Forge)
+### 🗺️ [Argentum Forge - World Editor for Argentum Online](https://github.com/ManuelJSD/Argentum-Forge)
 Editor de mapas para AO hecho en VB6, con sistema de capas y herramientas avanzadas. Utilizado por desarrolladores de la comunidad.
 
 ### 📽️ [Nehli](https://github.com/Lorwik/nehli)
