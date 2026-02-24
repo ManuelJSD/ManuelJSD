@@ -1,7 +1,7 @@
 <h1 align="center">👋 Soy Manuel J.</h1>
 
 <p align="center">
-  Desarrollador de software y herramientas open source.
+  Desarrollador de software construyendo proyectos y soluciones prácticas.
 </p>
 
 ---
@@ -21,7 +21,9 @@
 
 **[Argentum Forge](https://github.com/ManuelJSD/Argentum-Forge)** - Editor de mapas en Java con sistema de capas  
 **[Nehli](https://github.com/Lorwik/nehli)** - Plataforma de streaming local para Raspberry Pi  
-**[Winter AO](https://github.com/WinterAO)** - Servidor open source mantenido por la comunidad
+**[Winter AO](https://github.com/WinterAO)** - Servidor open source mantenido por la comunidad  
+
+**[Codex](https://github.com/ManuelJSD/Codex)** - Gestor avanzado de guías de videojuegos con lectura estructurada y consultas asistidas por IA.
 
 ---
 
